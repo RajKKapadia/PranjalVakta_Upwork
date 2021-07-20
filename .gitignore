@@ -1,0 +1,8 @@
+.serverless
+/node_modules
+/playground
+.env
+.npmignore
+handler.js
+package-lock.json
+serverless.yml
